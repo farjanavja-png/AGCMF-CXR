@@ -1,0 +1,11 @@
+torch>=2.4
+torchvision>=0.19
+transformers>=4.44
+torchxrayvision>=1.2
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+pillow

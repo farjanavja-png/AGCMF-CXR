@@ -1,0 +1,15 @@
+# never commit patient data or model weights
+*.jpg
+*.png
+*.dcm
+*.pt
+*.pth
+*.npz
+text_cache*.pt
+metadata.csv
+mimic-cxr-2.0.0-*.csv
+available_studies_filtered.csv
+p1*/
+CheXpert-v1.0-small/
+__pycache__/
+.ipynb_checkpoints/
